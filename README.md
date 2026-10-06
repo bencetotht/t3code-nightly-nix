@@ -3,6 +3,12 @@
 Nix flake packaging the official [T3 Code](https://t3.codes) nightly builds
 (desktop app + standalone CLI) for `x86_64-linux` and `aarch64-linux`.
 
+> **Disclaimer:** this is an unofficial, community-maintained packaging repo.
+> All credit for T3 Code goes to the [T3 Code](https://github.com/pingdotgg/t3code)
+> developers and the team at [Ping](https://ping.gg). This flake only repackages
+> their official release binaries for Nix and is not affiliated with or endorsed
+> by them. Please report app bugs upstream; packaging issues belong here.
+
 ## Usage
 
 ```bash
