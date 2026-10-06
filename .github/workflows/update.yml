@@ -1,0 +1,61 @@
+name: Update nightly
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Pin a specific tag (vX.Y.Z-nightly.YYYYMMDD.N); empty = newest"
+        required: false
+        default: ""
+
+concurrency:
+  group: update-nightly
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: cachix/install-nix-action@v31
+      - name: Pin newest nightly
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ inputs.tag }}
+        run: nix run .#update -- ${TAG:+--tag "$TAG"}
+      - name: Detect change
+        id: diff
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "version=$(jq -r .version pkgs/t3code-nightly/sources.json)" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Build and check new pin
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          nix flake check --no-build --all-systems
+          nix flake check --print-build-logs
+          nix run .#t3 -- --version
+      - name: Commit and push
+        if: steps.diff.outputs.changed == 'true'
+        env:
+          VERSION: ${{ steps.diff.outputs.version }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "t3code-nightly: $VERSION"
+          git push origin HEAD:main
+      # Pushes made with GITHUB_TOKEN don't trigger other workflows; dispatch CI explicitly.
+      - name: Trigger CI
+        if: steps.diff.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run ci.yml --ref main
