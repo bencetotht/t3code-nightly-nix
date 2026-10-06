@@ -1,24 +1,24 @@
 {
-  "version": "0.0.46-nightly.20261005.2702",
+  "version": "0.0.46-nightly.20261006.2735",
   "sources": {
     "x86_64-linux": {
       "desktop": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261005.2702/T3-Code-0.0.46-nightly.20261005.2702-amd64.deb",
-        "hash": "sha256-2aNRMkKoPC+sGAl6ecQ1kJ0BERNFp/bglZvrG2h1cKY="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261006.2735/T3-Code-0.0.46-nightly.20261006.2735-amd64.deb",
+        "hash": "sha256-mGMIEqmIgUZVeSDWo3FgnEwKZFJoN+PBlzAMcbSFQ+0="
       },
       "cli": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261005.2702/t3-0.0.46-nightly.20261005.2702-linux-x64.tar.gz",
-        "hash": "sha256-s3f5x6wEsZD67c6ArH/LGddtY9a+Wdqr5I7bso7o1TI="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261006.2735/t3-0.0.46-nightly.20261006.2735-linux-x64.tar.gz",
+        "hash": "sha256-8GEm9qQkr8pTm240RrnIRLBNLTXNHNKY80pxqJ7uWto="
       }
     },
     "aarch64-linux": {
       "desktop": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261005.2702/T3-Code-0.0.46-nightly.20261005.2702-arm64.deb",
-        "hash": "sha256-9B4YChHGJNFZ1nVxLJnbl5TrjANmmexgF2KN7RPkAkU="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261006.2735/T3-Code-0.0.46-nightly.20261006.2735-arm64.deb",
+        "hash": "sha256-oEH6BKl1r/5jRCt/qhU2SadtvJyAoFH0I//EB8WdZxM="
       },
       "cli": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261005.2702/t3-0.0.46-nightly.20261005.2702-linux-arm64.tar.gz",
-        "hash": "sha256-EM5npVfE1yLS2jdRa8SBvq20sEldM/JpsX2tDwIivMc="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261006.2735/t3-0.0.46-nightly.20261006.2735-linux-arm64.tar.gz",
+        "hash": "sha256-BUw+uqi3OLgvXm/M9jPM+6hJRDdu5lTaPaq5LrbuxQE="
       }
     }
   }
