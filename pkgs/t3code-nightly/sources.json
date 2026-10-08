@@ -1,24 +1,24 @@
 {
-  "version": "0.0.46-nightly.20261007.2761",
+  "version": "0.0.46-nightly.20261008.2819",
   "sources": {
     "x86_64-linux": {
       "desktop": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261007.2761/T3-Code-0.0.46-nightly.20261007.2761-amd64.deb",
-        "hash": "sha256-+L5LsFsnb8ypUDB0avNa58JjQD/kYEL5R2O++CbkHp0="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261008.2819/T3-Code-0.0.46-nightly.20261008.2819-amd64.deb",
+        "hash": "sha256-UUGL0lUkjoiwJipo1LFaHS64ZKQASqgM3icNw3v9uEM="
       },
       "cli": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261007.2761/t3-0.0.46-nightly.20261007.2761-linux-x64.tar.gz",
-        "hash": "sha256-2McYjHcaw5G3JKP0ZLXOrIxVGw2HwWJyldl1E6ObkTs="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261008.2819/t3-0.0.46-nightly.20261008.2819-linux-x64.tar.gz",
+        "hash": "sha256-s95tFL9QfiU6DLU6GMZ+UdjEPKbwPgZxik5p+40w37U="
       }
     },
     "aarch64-linux": {
       "desktop": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261007.2761/T3-Code-0.0.46-nightly.20261007.2761-arm64.deb",
-        "hash": "sha256-NRgw3HyVdkqM18QaaZ8XaQSu6xvjZPOKPbeWmHclicI="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261008.2819/T3-Code-0.0.46-nightly.20261008.2819-arm64.deb",
+        "hash": "sha256-bfwwr/mDbMCnFe41aAOkYQ9gXi6SRMsQhaah3lBC5yY="
       },
       "cli": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261007.2761/t3-0.0.46-nightly.20261007.2761-linux-arm64.tar.gz",
-        "hash": "sha256-Y50ooX8pQSQVol0hBO4CNSqUO8GPXsn7Iku3zhJ6w7k="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261008.2819/t3-0.0.46-nightly.20261008.2819-linux-arm64.tar.gz",
+        "hash": "sha256-147lcZdfHorY1GIl/0DO1TCssj1LMVJ4ozz0pAGOBMs="
       }
     }
   }
