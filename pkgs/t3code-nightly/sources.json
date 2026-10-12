@@ -1,24 +1,24 @@
 {
-  "version": "0.0.46-nightly.20261011.2967",
+  "version": "0.0.46-nightly.20261012.3010",
   "sources": {
     "x86_64-linux": {
       "desktop": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261011.2967/T3-Code-0.0.46-nightly.20261011.2967-amd64.deb",
-        "hash": "sha256-9OV1zZ0EzD4Wkn5F/+34IpEKUE/PDYPPRzDQUx9HrUc="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261012.3010/T3-Code-0.0.46-nightly.20261012.3010-amd64.deb",
+        "hash": "sha256-b+vLXHzQZx9tpnnlUT7TUdLJCGxG7YgP7VSAICa/dj0="
       },
       "cli": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261011.2967/t3-0.0.46-nightly.20261011.2967-linux-x64.tar.gz",
-        "hash": "sha256-y2A/cSXHOiHqAIX9S5E07tvM/P018HrctmGkEm06nL8="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261012.3010/t3-0.0.46-nightly.20261012.3010-linux-x64.tar.gz",
+        "hash": "sha256-54v3L5UWTPsFoMi1ABwUj+WGR1rq6o1oXC02seLcyHY="
       }
     },
     "aarch64-linux": {
       "desktop": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261011.2967/T3-Code-0.0.46-nightly.20261011.2967-arm64.deb",
-        "hash": "sha256-0g+q+5irvJZh2qDNdAUpw3it1PujlVRy4ZO40XeWPyE="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261012.3010/T3-Code-0.0.46-nightly.20261012.3010-arm64.deb",
+        "hash": "sha256-QYv+8+/oHp+UOobkStvUTRhrWrJ5TfAIDcMKcY4rnPw="
       },
       "cli": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261011.2967/t3-0.0.46-nightly.20261011.2967-linux-arm64.tar.gz",
-        "hash": "sha256-0z6vwQ1oDm/3RP+plpYL5SQbrMmSwO3Jyd+fSJTMY4k="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261012.3010/t3-0.0.46-nightly.20261012.3010-linux-arm64.tar.gz",
+        "hash": "sha256-BcGEAL0uLiWLSB1JcFX1LOJbgVGRqqn3PdTk61stJss="
       }
     }
   }
