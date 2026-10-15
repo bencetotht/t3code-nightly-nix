@@ -1,24 +1,24 @@
 {
-  "version": "0.0.46-nightly.20261014.3093",
+  "version": "0.0.46-nightly.20261015.3145",
   "sources": {
     "x86_64-linux": {
       "desktop": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261014.3093/T3-Code-0.0.46-nightly.20261014.3093-amd64.deb",
-        "hash": "sha256-jMJgK6UnLeKxUIKZxZomU1cmv1nQY7Y/p+uGZum0Tjs="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261015.3145/T3-Code-0.0.46-nightly.20261015.3145-amd64.deb",
+        "hash": "sha256-g+52HRiGrOf2QdD8FPqFyj6+p6shOmjDatO8m88f1rU="
       },
       "cli": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261014.3093/t3-0.0.46-nightly.20261014.3093-linux-x64.tar.gz",
-        "hash": "sha256-F2S2SctJPD9uGbYoovVaye6+wp209D/Ta1gVjltN2uo="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261015.3145/t3-0.0.46-nightly.20261015.3145-linux-x64.tar.gz",
+        "hash": "sha256-Qdu5P99rkLN+nDKbL6JU0AYb4HWjC3ZQEigdR1xua2U="
       }
     },
     "aarch64-linux": {
       "desktop": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261014.3093/T3-Code-0.0.46-nightly.20261014.3093-arm64.deb",
-        "hash": "sha256-tY/ESvCwOhlfzT4VMFSHOzFxcpxHMRrpPs3QnhRKehA="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261015.3145/T3-Code-0.0.46-nightly.20261015.3145-arm64.deb",
+        "hash": "sha256-wu8WN4UwQIGcQJJe+9AHwZ09jGzYzy9vxhge+sIp2HQ="
       },
       "cli": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261014.3093/t3-0.0.46-nightly.20261014.3093-linux-arm64.tar.gz",
-        "hash": "sha256-59aqDsdjorw2lWgQE76bkiutPdoehwiFWC+Jt7qc1SQ="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261015.3145/t3-0.0.46-nightly.20261015.3145-linux-arm64.tar.gz",
+        "hash": "sha256-qtTOjEA89ep7WZ4kq6Cbn9Btv5QoMUY39MhVaDLmkmk="
       }
     }
   }
