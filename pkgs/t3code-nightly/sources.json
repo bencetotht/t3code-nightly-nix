@@ -1,24 +1,24 @@
 {
-  "version": "0.0.46-nightly.20261015.3145",
+  "version": "0.1.1-nightly.20261016.3190",
   "sources": {
     "x86_64-linux": {
       "desktop": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261015.3145/T3-Code-0.0.46-nightly.20261015.3145-amd64.deb",
-        "hash": "sha256-g+52HRiGrOf2QdD8FPqFyj6+p6shOmjDatO8m88f1rU="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.1-nightly.20261016.3190/T3-Code-0.1.1-nightly.20261016.3190-amd64.deb",
+        "hash": "sha256-Y2BnQJzaVQt0UVFDPxwvELXYudxjcy/RvHQeff34Msw="
       },
       "cli": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261015.3145/t3-0.0.46-nightly.20261015.3145-linux-x64.tar.gz",
-        "hash": "sha256-Qdu5P99rkLN+nDKbL6JU0AYb4HWjC3ZQEigdR1xua2U="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.1-nightly.20261016.3190/t3-0.1.1-nightly.20261016.3190-linux-x64.tar.gz",
+        "hash": "sha256-IO1uwUZfC1NwN9KqWvAbI5+2EAhrZwBSdK3rre2IYj0="
       }
     },
     "aarch64-linux": {
       "desktop": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261015.3145/T3-Code-0.0.46-nightly.20261015.3145-arm64.deb",
-        "hash": "sha256-wu8WN4UwQIGcQJJe+9AHwZ09jGzYzy9vxhge+sIp2HQ="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.1-nightly.20261016.3190/T3-Code-0.1.1-nightly.20261016.3190-arm64.deb",
+        "hash": "sha256-HvXEXGD5uLirbpmSUrRslUfIXwWfNxFpXs7YW5X46y4="
       },
       "cli": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.46-nightly.20261015.3145/t3-0.0.46-nightly.20261015.3145-linux-arm64.tar.gz",
-        "hash": "sha256-qtTOjEA89ep7WZ4kq6Cbn9Btv5QoMUY39MhVaDLmkmk="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.1-nightly.20261016.3190/t3-0.1.1-nightly.20261016.3190-linux-arm64.tar.gz",
+        "hash": "sha256-+ZFwpg1wkWRYZPag0v23B/oMLECesXV8oazc+Iq6c0o="
       }
     }
   }
