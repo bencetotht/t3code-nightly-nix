@@ -1,24 +1,24 @@
 {
-  "version": "0.1.1-nightly.20261018.3302",
+  "version": "0.1.1-nightly.20261019.3348",
   "sources": {
     "x86_64-linux": {
       "desktop": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.1-nightly.20261018.3302/T3-Code-0.1.1-nightly.20261018.3302-amd64.deb",
-        "hash": "sha256-yLGFegL2tJfh8+F+jvIHEiEk/2h31CviSsHaRaLj6YA="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.1-nightly.20261019.3348/T3-Code-0.1.1-nightly.20261019.3348-amd64.deb",
+        "hash": "sha256-YJh62t7e8V/Yp7Itb7naiimQuB6jOEiq8ECocX8JKu8="
       },
       "cli": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.1-nightly.20261018.3302/t3-0.1.1-nightly.20261018.3302-linux-x64.tar.gz",
-        "hash": "sha256-oEno3F7/hOJYUHE8coGVqE8gOU73Keg0LMaetzNEACM="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.1-nightly.20261019.3348/t3-0.1.1-nightly.20261019.3348-linux-x64.tar.gz",
+        "hash": "sha256-q7pLdpvlOCMP/Z0ArREUi345YUqUeFkir6sK55sYkj4="
       }
     },
     "aarch64-linux": {
       "desktop": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.1-nightly.20261018.3302/T3-Code-0.1.1-nightly.20261018.3302-arm64.deb",
-        "hash": "sha256-NQx9QV2ruVIMXvwqDBcF8ox3GSKKULU8yhOhEmgERT4="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.1-nightly.20261019.3348/T3-Code-0.1.1-nightly.20261019.3348-arm64.deb",
+        "hash": "sha256-ysVyH4T/mZXUBNy5aLM8UU832aRDBFaIRm/1sWbuR48="
       },
       "cli": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.1-nightly.20261018.3302/t3-0.1.1-nightly.20261018.3302-linux-arm64.tar.gz",
-        "hash": "sha256-z9BLTAduuYWokCgeL0jBSA9YHAjGfdyeoA+/Mb4vZDw="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.1-nightly.20261019.3348/t3-0.1.1-nightly.20261019.3348-linux-arm64.tar.gz",
+        "hash": "sha256-qO1KrVMlE2MOIiTPZa3B6rsS9I1QRJNZnsfILYw+sBo="
       }
     }
   }
