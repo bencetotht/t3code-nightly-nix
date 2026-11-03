@@ -47,7 +47,8 @@ stdenv.mkDerivation {
 
     # The release includes both libc variants; Node selects the GNU variant
     # on NixOS. Do not patch the unused musl binary against glibc.
-    rm -rf "$out/lib/t3code-desktop/resources/app.asar.unpacked/node_modules/@yuuang/ffi-rs-linux-"*-musl
+    rm -rf "$out/lib/t3code-desktop/resources/app.asar.unpacked/node_modules/@yuuang/ffi-rs-linux-"*-musl \
+      "$out/lib/t3code-cli/node_modules/@yuuang/ffi-rs-linux-"*-musl
 
     makeWrapper "$out/lib/t3code-cli/t3" "$out/bin/t3" \
       --prefix LD_LIBRARY_PATH : "${lib.makeLibraryPath [ stdenv.cc.cc.lib libsecret ]}"
