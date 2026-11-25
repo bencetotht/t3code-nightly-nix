@@ -22,6 +22,10 @@ stdenv.mkDerivation {
   ];
   # Electron loads these libraries dynamically rather than through DT_NEEDED.
   runtimeDependencies = [ (lib.getLib systemd) libGL vulkan-loader ];
+  # Native npm modules ship musl prebuilds next to the glibc ones (e.g.
+  # koffi's musl_x64, ffi-rs-*-musl). Node only loads the glibc variant on
+  # NixOS, so musl libc never needs to resolve.
+  autoPatchelfIgnoreMissingDeps = [ "libc.musl-*.so.1" ];
   dontConfigure = true;
   dontBuild = true;
   dontStrip = true;

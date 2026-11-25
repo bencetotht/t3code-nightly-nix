@@ -1,24 +1,24 @@
 {
-  "version": "0.1.8-nightly.20261105.4218",
+  "version": "0.1.12-nightly.20261125.5230",
   "sources": {
     "x86_64-linux": {
       "desktop": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.8-nightly.20261105.4218/T3-Code-0.1.8-nightly.20261105.4218-amd64.deb",
-        "hash": "sha256-PYY67lFakX7CTbV4d1Kk9Z2Skalch+z40W5vjKHOIes="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.12-nightly.20261125.5230/T3-Code-0.1.12-nightly.20261125.5230-amd64.deb",
+        "hash": "sha256-Rc08zvcVwIighUAxTndns3A4sxEeooBvsdGeGDka/D4="
       },
       "cli": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.8-nightly.20261105.4218/t3-0.1.8-nightly.20261105.4218-linux-x64.tar.gz",
-        "hash": "sha256-sgZfU1I/dzNMTg7qr7mw0iPEsC7DuRbF+z6eHHeMzMw="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.12-nightly.20261125.5230/t3-0.1.12-nightly.20261125.5230-linux-x64.tar.gz",
+        "hash": "sha256-pnlbT3ADkSbddfMx0lfKsGHe6agJdiOxijCdHTJX/yc="
       }
     },
     "aarch64-linux": {
       "desktop": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.8-nightly.20261105.4218/T3-Code-0.1.8-nightly.20261105.4218-arm64.deb",
-        "hash": "sha256-WD/UTLSLNjiFAzrTFLPxYFjRkLPP74kRjiqEC6BnLaI="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.12-nightly.20261125.5230/T3-Code-0.1.12-nightly.20261125.5230-arm64.deb",
+        "hash": "sha256-4cCeW+2caieHK6C0uqgssFPHiscXYe/Q752YnYNbnqo="
       },
       "cli": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.8-nightly.20261105.4218/t3-0.1.8-nightly.20261105.4218-linux-arm64.tar.gz",
-        "hash": "sha256-6rS9uBBSEKgQMnUosq96Ub9Q60omGkJGpls4PNq0mIg="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.12-nightly.20261125.5230/t3-0.1.12-nightly.20261125.5230-linux-arm64.tar.gz",
+        "hash": "sha256-RUse6KEysN4COKVIQ8BMhnt82Kgme0R4Zt+Lpqiswnc="
       }
     }
   }
