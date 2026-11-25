@@ -1,24 +1,24 @@
 {
-  "version": "0.1.12-nightly.20261125.5230",
+  "version": "0.1.13-nightly.20261125.5245",
   "sources": {
     "x86_64-linux": {
       "desktop": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.12-nightly.20261125.5230/T3-Code-0.1.12-nightly.20261125.5230-amd64.deb",
-        "hash": "sha256-Rc08zvcVwIighUAxTndns3A4sxEeooBvsdGeGDka/D4="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.13-nightly.20261125.5245/T3-Code-0.1.13-nightly.20261125.5245-amd64.deb",
+        "hash": "sha256-1cnj5In7fdDhnaybwXXE0dQCxQNakIesfLKMCB8XEng="
       },
       "cli": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.12-nightly.20261125.5230/t3-0.1.12-nightly.20261125.5230-linux-x64.tar.gz",
-        "hash": "sha256-pnlbT3ADkSbddfMx0lfKsGHe6agJdiOxijCdHTJX/yc="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.13-nightly.20261125.5245/t3-0.1.13-nightly.20261125.5245-linux-x64.tar.gz",
+        "hash": "sha256-3jMXdcDvQ27fRGAhwFuS0heHQk7+XoszaZwEcQ8XUVI="
       }
     },
     "aarch64-linux": {
       "desktop": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.12-nightly.20261125.5230/T3-Code-0.1.12-nightly.20261125.5230-arm64.deb",
-        "hash": "sha256-4cCeW+2caieHK6C0uqgssFPHiscXYe/Q752YnYNbnqo="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.13-nightly.20261125.5245/T3-Code-0.1.13-nightly.20261125.5245-arm64.deb",
+        "hash": "sha256-gRKuC9D3Ebm0YtR1dvdE1Q+p/vPXwnaN3swJPB65eRA="
       },
       "cli": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.12-nightly.20261125.5230/t3-0.1.12-nightly.20261125.5230-linux-arm64.tar.gz",
-        "hash": "sha256-RUse6KEysN4COKVIQ8BMhnt82Kgme0R4Zt+Lpqiswnc="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.13-nightly.20261125.5245/t3-0.1.13-nightly.20261125.5245-linux-arm64.tar.gz",
+        "hash": "sha256-xaZ8hKPwRhU6fuyiwHiSnT4NaynuHW2EOTJb1vX40SQ="
       }
     }
   }
