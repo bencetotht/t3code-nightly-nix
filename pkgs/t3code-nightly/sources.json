@@ -1,24 +1,24 @@
 {
-  "version": "0.1.13-nightly.20261125.5245",
+  "version": "0.1.13-nightly.20261125.5258",
   "sources": {
     "x86_64-linux": {
       "desktop": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.13-nightly.20261125.5245/T3-Code-0.1.13-nightly.20261125.5245-amd64.deb",
-        "hash": "sha256-1cnj5In7fdDhnaybwXXE0dQCxQNakIesfLKMCB8XEng="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.13-nightly.20261125.5258/T3-Code-0.1.13-nightly.20261125.5258-amd64.deb",
+        "hash": "sha256-RRBKnTXtNfBjjZOho++Q75OLAPFNl28bmgpWQdc8QPY="
       },
       "cli": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.13-nightly.20261125.5245/t3-0.1.13-nightly.20261125.5245-linux-x64.tar.gz",
-        "hash": "sha256-3jMXdcDvQ27fRGAhwFuS0heHQk7+XoszaZwEcQ8XUVI="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.13-nightly.20261125.5258/t3-0.1.13-nightly.20261125.5258-linux-x64.tar.gz",
+        "hash": "sha256-tZrV1qUs3NZ2SCJ3BQNwhMb9Pn/vFD1ptz1vqN+HIXQ="
       }
     },
     "aarch64-linux": {
       "desktop": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.13-nightly.20261125.5245/T3-Code-0.1.13-nightly.20261125.5245-arm64.deb",
-        "hash": "sha256-gRKuC9D3Ebm0YtR1dvdE1Q+p/vPXwnaN3swJPB65eRA="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.13-nightly.20261125.5258/T3-Code-0.1.13-nightly.20261125.5258-arm64.deb",
+        "hash": "sha256-tYK9gryVcBUcmxb2fy9iHF+dlVYpIAifj/h9VOu9Mnw="
       },
       "cli": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.13-nightly.20261125.5245/t3-0.1.13-nightly.20261125.5245-linux-arm64.tar.gz",
-        "hash": "sha256-xaZ8hKPwRhU6fuyiwHiSnT4NaynuHW2EOTJb1vX40SQ="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.13-nightly.20261125.5258/t3-0.1.13-nightly.20261125.5258-linux-arm64.tar.gz",
+        "hash": "sha256-CEBL80xLWUxba7g4q5nZv5Lpf4cLc9RAzqKHLuYkQ1M="
       }
     }
   }
