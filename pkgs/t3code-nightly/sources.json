@@ -1,24 +1,24 @@
 {
-  "version": "0.1.13-nightly.20261125.5258",
+  "version": "0.1.14-nightly.20261127.5332",
   "sources": {
     "x86_64-linux": {
       "desktop": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.13-nightly.20261125.5258/T3-Code-0.1.13-nightly.20261125.5258-amd64.deb",
-        "hash": "sha256-RRBKnTXtNfBjjZOho++Q75OLAPFNl28bmgpWQdc8QPY="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.14-nightly.20261127.5332/T3-Code-0.1.14-nightly.20261127.5332-amd64.deb",
+        "hash": "sha256-CL9KGZv7eRe7fsYAZzZUmuVeBLxNjW47Y7M1ajRvjh4="
       },
       "cli": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.13-nightly.20261125.5258/t3-0.1.13-nightly.20261125.5258-linux-x64.tar.gz",
-        "hash": "sha256-tZrV1qUs3NZ2SCJ3BQNwhMb9Pn/vFD1ptz1vqN+HIXQ="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.14-nightly.20261127.5332/t3-0.1.14-nightly.20261127.5332-linux-x64.tar.gz",
+        "hash": "sha256-TE4AYt2SOUmO5kc8IjnrErsb1m7wnPVs4co2JFuVdmc="
       }
     },
     "aarch64-linux": {
       "desktop": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.13-nightly.20261125.5258/T3-Code-0.1.13-nightly.20261125.5258-arm64.deb",
-        "hash": "sha256-tYK9gryVcBUcmxb2fy9iHF+dlVYpIAifj/h9VOu9Mnw="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.14-nightly.20261127.5332/T3-Code-0.1.14-nightly.20261127.5332-arm64.deb",
+        "hash": "sha256-zvH8suHPJjcBKWQESVJZ7sfOb/3qq8n4tV2TWyE5280="
       },
       "cli": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.13-nightly.20261125.5258/t3-0.1.13-nightly.20261125.5258-linux-arm64.tar.gz",
-        "hash": "sha256-CEBL80xLWUxba7g4q5nZv5Lpf4cLc9RAzqKHLuYkQ1M="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.14-nightly.20261127.5332/t3-0.1.14-nightly.20261127.5332-linux-arm64.tar.gz",
+        "hash": "sha256-/btjdJJ0Ix8ce/mumsGq3qjvClKVtbQS4MnEaxxC9jg="
       }
     }
   }
