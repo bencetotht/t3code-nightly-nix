@@ -1,24 +1,24 @@
 {
-  "version": "0.1.14-nightly.20261127.5332",
+  "version": "0.1.14-nightly.20261128.5385",
   "sources": {
     "x86_64-linux": {
       "desktop": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.14-nightly.20261127.5332/T3-Code-0.1.14-nightly.20261127.5332-amd64.deb",
-        "hash": "sha256-CL9KGZv7eRe7fsYAZzZUmuVeBLxNjW47Y7M1ajRvjh4="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.14-nightly.20261128.5385/T3-Code-0.1.14-nightly.20261128.5385-amd64.deb",
+        "hash": "sha256-VKoVjvh0NZIVXttMINAgtFoJQYSkrBMKfaK8zz6HJBE="
       },
       "cli": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.14-nightly.20261127.5332/t3-0.1.14-nightly.20261127.5332-linux-x64.tar.gz",
-        "hash": "sha256-TE4AYt2SOUmO5kc8IjnrErsb1m7wnPVs4co2JFuVdmc="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.14-nightly.20261128.5385/t3-0.1.14-nightly.20261128.5385-linux-x64.tar.gz",
+        "hash": "sha256-J/aJ2kBMQBW9spWZ9AlZNuTvnP+r+05xU5a6YE0jE8Q="
       }
     },
     "aarch64-linux": {
       "desktop": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.14-nightly.20261127.5332/T3-Code-0.1.14-nightly.20261127.5332-arm64.deb",
-        "hash": "sha256-zvH8suHPJjcBKWQESVJZ7sfOb/3qq8n4tV2TWyE5280="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.14-nightly.20261128.5385/T3-Code-0.1.14-nightly.20261128.5385-arm64.deb",
+        "hash": "sha256-yJNEX0a5GmTogJiPYJjUvXaQlEFZVbTN1ucZ1TlggJI="
       },
       "cli": {
-        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.14-nightly.20261127.5332/t3-0.1.14-nightly.20261127.5332-linux-arm64.tar.gz",
-        "hash": "sha256-/btjdJJ0Ix8ce/mumsGq3qjvClKVtbQS4MnEaxxC9jg="
+        "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.14-nightly.20261128.5385/t3-0.1.14-nightly.20261128.5385-linux-arm64.tar.gz",
+        "hash": "sha256-/JqT4WtaXpJQ5HK32JgLHsffb4beDgGvzhaI7QGLV7M="
       }
     }
   }
